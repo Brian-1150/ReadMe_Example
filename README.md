@@ -24,6 +24,8 @@ full CRUD on the easy-to-use user friendy user interface.
 ## Contributing
 To contribute to this project, follow the instructions for cloning, then commit your code or changes on a new branch.  Please be sure to include unit test before making a pull request.
 
+## Contact
+Please reach out with any questions or suggestions.  <sd86@elevenfifty.org>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
