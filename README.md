@@ -4,7 +4,9 @@
 Streaming Content is a console app for storing and managing info about your streaming content library.  
 
 ## Technologies used
-* Visual Studio 2019 Community, C#, Git Hub
+*  Visual Studio 2019 Community
+*  C#
+*  Git Hub
 
 ## Installation
 
